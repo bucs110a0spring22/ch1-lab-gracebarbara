@@ -19,7 +19,7 @@ Grace days remaining: 5/5
  None
 
 ## REFERENCES:
- None
+ Syllabus: https://docs.google.com/document/d/1S0auAmP2DelweXQj-ogiZ-msntGrKz0kZrzkkklitX8/edit
 
 ## MISCELLANEOUS COMMENTS:
  None
